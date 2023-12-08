@@ -1,0 +1,22 @@
+.container{
+    border: 2px solid black;
+    width: fit-content;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+button{
+    margin: 1px;
+    background-color: black;
+    color: azure;
+    border-radius: 5px;
+    box-shadow: 1px 1px black;
+}
+button:hover{
+    background-color: azure;
+    color: black;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
